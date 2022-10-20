@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renz Brian Matias</h1>
 <h3 align="center">4th year Computer Science</h3>
-<img align="right" alt="Coding" width="400" src="https://www.uplifers.com/app/uploads/2015/09/man%C5%9Fet-2.png">
+
 
 - 🌱 I’m currently learning **python and java**
 
