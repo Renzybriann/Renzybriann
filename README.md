@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renz Brian Matias</h1>
-<h3 align="center">4th year Computer Science</h3>
+<h3 align="center">Computer Science</h3>
 
 
 - 🌱 I’m currently learning **python and java**
