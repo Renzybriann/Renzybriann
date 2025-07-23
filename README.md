@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Renz Brian Matias</h1>
-<h3 align="center">Computer Science</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **python and java**
-
-- 📫 How to reach me **youngrenzybrian@gmail.com**
+- 📫 How to reach me **matiasrenzbrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
